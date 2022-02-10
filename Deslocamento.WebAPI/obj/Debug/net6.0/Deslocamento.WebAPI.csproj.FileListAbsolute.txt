@@ -1,0 +1,7 @@
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.WebAPI\obj\Debug\net6.0\Deslocamento.WebAPI.csproj.AssemblyReference.cache

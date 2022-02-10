@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApi.Domain.deps.json
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApi.Domain.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApi.Domain.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\bin\Debug\net6.0\ref\DeslocamentoApi.Domain.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApi.Domain.pdb
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\ref\DeslocamentoApi.Domain.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.pdb
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApi.Domain.csproj.AssemblyReference.cache

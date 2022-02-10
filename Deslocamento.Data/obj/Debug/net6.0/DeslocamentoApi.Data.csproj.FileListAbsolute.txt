@@ -1,0 +1,17 @@
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Data.deps.json
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Data.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Data.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\ref\DeslocamentoApi.Data.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Data.pdb
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Domain.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApi.Domain.pdb
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\ref\DeslocamentoApi.Data.dll
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.pdb
+C:\Users\paulo\OneDrive\Documentos\Biopark\C#\DeslocamentoAPI\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApi.Data.genruntimeconfig.cache

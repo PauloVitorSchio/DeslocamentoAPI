@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91a2c321-7f79-4567-845d-79b57f9679fa": {
+      "ProjectGuid": "91a2c321-7f79-4567-845d-79b57f9679fa",
+      "DisplayName": "DeslocamentoApi.Application",
+      "ColorIndex": 0
+    },
+    "1f01a430-86f4-4c59-a54e-64369d5a780f": {
+      "ProjectGuid": "1f01a430-86f4-4c59-a54e-64369d5a780f",
+      "DisplayName": "DeslocamentoApi.Domain",
+      "ColorIndex": 1
+    },
+    "cd89b40d-a1ed-4d47-94e7-62d3c2653e36": {
+      "ProjectGuid": "cd89b40d-a1ed-4d47-94e7-62d3c2653e36",
+      "DisplayName": "DeslocamentoApi.Data",
+      "ColorIndex": 2
+    },
+    "5929c8bc-d4aa-4432-aa3b-249936b00d58": {
+      "ProjectGuid": "5929c8bc-d4aa-4432-aa3b-249936b00d58",
+      "DisplayName": "DeslocamentoApi.WebAPI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
